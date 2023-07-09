@@ -1,0 +1,22 @@
+h3{
+ font-size: 2rem;
+ text-align: center;
+ margin: 3rem;
+}
+
+#time {
+  font-size: 3rem;
+  text-align: center;
+  padding: 1rem;
+  margin: .5rem;
+}
+
+#buttons {
+  font-size: 3rem;
+  text-align: center;
+}
+
+#start, #stop, #reset {
+  font-size: 1.5rem;
+}
+
